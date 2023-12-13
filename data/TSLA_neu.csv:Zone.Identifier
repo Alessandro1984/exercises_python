@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://finance.yahoo.com/quote/TSLA/history?p=TSLA
-HostUrl=https://query1.finance.yahoo.com/v7/finance/download/TSLA?period1=1669871878&period2=1701407878&interval=1d&events=history&includeAdjustedClose=true
